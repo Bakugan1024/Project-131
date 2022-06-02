@@ -11,3 +11,11 @@ border-radius: 30px !important;
 background-color: rgb(255, 255, 255);
 color: black;
 }
+
+.play_button
+  {
+  	width: 130px;
+  	font-size: 25px;
+      float: right;
+      background-color: black;
+  }
